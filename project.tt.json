@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-dangerouslySetInnerHTML",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
